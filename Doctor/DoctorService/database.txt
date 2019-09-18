@@ -1,0 +1,12 @@
+Doctor
+
+
+doctor_id
+doctor_name
+location
+specialization
+gender
+timetable
+location
+information
+

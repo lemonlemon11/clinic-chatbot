@@ -1,0 +1,6 @@
+Flask
+flask_restplus
+datetime
+flask_cors
+requests
+pymongo
